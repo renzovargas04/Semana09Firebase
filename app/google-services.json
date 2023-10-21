@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298847012388",
+    "project_id": "esan2023-02",
+    "storage_bucket": "esan2023-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298847012388:android:d41b511a8fe3dd71abfab1",
+        "android_client_info": {
+          "package_name": "com.example.semana09firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgaFHUwcH90bVNUGW3wWvfhwUML63qL_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
